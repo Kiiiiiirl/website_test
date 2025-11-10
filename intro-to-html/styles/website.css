@@ -1,0 +1,23 @@
+body {
+  font-family: "Comic Sans MS";
+  background-color: rgb(18, 7, 40);
+  color: white;
+}
+.laivol{
+  background-color: cyan;
+  color: blue;
+  border: none;
+  height: 32px;
+  width: 320px;
+  border-radius: 12px;
+  cursor: progress;
+
+}
+
+.fuck-my-chungus-ai-life{
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  width: 300px;
+  line-height: 240px;
+}
